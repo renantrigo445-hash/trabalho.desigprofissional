@@ -7,36 +7,36 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data: `[dd/mm/aaaa]`
+- Integrantes: `[Isabela de Sena Alves, Ryan Oliveira Trigo Santos, Renan Oliveira Trigo Santos]`
+- Data: `[24/09/2026]`
 
 ## Preenchimento
 
 ### Área geral
 
-`[Qual é a área ampla de interesse?]`
+Inteligência Artificial e os seus Impactos Sociais e Éticos
 
 ### Tema delimitado
 
-`[Escreva o tema específico em uma ou duas frases.]`
+Os impactos dos avanços da Inteligência Artificial Generativa no mercado de trabalho da área de Tecnologia da Informação (TI).
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
-- Objeto estudado: `[preencher]`
-- Contexto ou aplicação: `[preencher]`
-- Aspecto que será analisado: `[preencher]`
-- O que ficará fora do estudo: `[preencher]`
+- Tema amplo: `Inteligência Artificial e Sociedade`
+- Objeto estudado:`Ferramentas de Inteligência Artificial Generativa (como assistentes de código e LLMs)`
+- Contexto ou aplicação: `Mercado de trabalho e rotina de profissionais da área de Tecnologia da Informação`
+- Aspecto que será analisado: `Automação de tarefas, produtividade, novas competências exigidas e preocupações com a substituição de empregos`
+- O que ficará fora do estudo: `Aplicação da IA na medicina, artes visuais, direito ou avaliação detalhada do funcionamento técnico de algoritmos específicos`
 
 ### Justificativa
 
-`[Explique em 3 a 5 linhas por que o tema é importante.]`
+A rápida evolução da Inteligência Artificial Generativa está a transformar o desenvolvimento de software e a gestão de sistemas de TI. Compreender como estas ferramentas afetam o mercado profissional é essencial para identificar novas competências exigidas, avaliar riscos de substituição de funções e orientar a formação acadêmica de futuros profissionais da área.
 
 ### Viabilidade
 
-- Há artigos científicos disponíveis? `[Sim/Não/Parcialmente]`
-- O tema pode ser estudado no prazo? `[Sim/Não]`
-- O grupo possui acesso às fontes necessárias? `[Sim/Não]`
+- Há artigos científicos disponíveis? `sim`
+- O tema pode ser estudado no prazo? `sim`
+- O grupo possui acesso às fontes necessárias? `sim`
 
 ## Produto da etapa
 
@@ -44,14 +44,16 @@ Tema delimitado e justificativa.
 
 ## Checklist
 
-- [ ] O tema é específico.
-- [ ] O tema é relevante.
-- [ ] O tema é viável.
-- [ ] O recorte está claro.
+- [x] O tema é específico.
+- [x] O tema é relevante.
+- [x] O tema é viável.
+- [x] O recorte está claro.
 - [ ] O tema foi validado pelo professor.
 
 ## Contribuições
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `Isabela de Sena Alves` | `Pesquisa` |
+| `Ryan Oliveira Trigo Santos`| `Digitação`|
+| `Renan Oliveira Trigo Santos`| `Digitação`|
