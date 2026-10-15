@@ -8,57 +8,55 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: `[preencher]`
-* DOI ou URL: `[preencher]`
-* Base de origem: `[preencher]`
-* Leitor responsável: `[preencher]`
-* Data da leitura: `[dd/mm/aaaa]`
+* Referência completa: `[PENG, Sida; KALLIAMVAKOU, Eirini; CIHON, Peter; DEMIRER, Mert. The Impact of AI on Developer Productivity: Evidence from GitHub Copilot. 2023.]`
+* DOI ou URL: `[https://doi.org/10.48550/arXiv.2302.06590]`
+* Base de origem: `[National Bureau of Economic Research (NBER).]`
+* Leitor responsável: `[Renan Oliveira Trigo Santos, Isabela de Sena Alves, Ryan Oliveira Trigo Santos.]`
+* Data da leitura: `[15/10/2026]`
 
 ## Fichamento
 
 ### Problema investigado
 
-`[preencher]`
+`[O estudo investiga como a utilização de um assistente conversacional baseado em inteligência artificial generativa influencia a produtividade e o aprendizado dos trabalhadores.]`
 
 ### Objetivo do estudo
 
-`[preencher]`
+`[Analisar os efeitos da introdução de uma ferramenta de IA generativa sobre a produtividade dos funcionários e verificar se os resultados variam conforme a experiência profissional.]`
 
 ### Método utilizado
 
-`[preencher]`
+`[Os pesquisadores analisaram dados de trabalhadores que receberam acesso à ferramenta em momentos diferentes, comparando indicadores de produtividade e outros resultados profissionais.]`
 
 ### Contexto, amostra ou dados
 
-`[preencher]`
+`[A pesquisa utilizou dados de 5.179 agentes de atendimento ao cliente. A produtividade foi avaliada principalmente pela quantidade de problemas resolvidos por hora.]`
 
 ### Principais resultados
 
-`[preencher]`
+`[O acesso à ferramenta aumentou a produtividade em aproximadamente 14% em média. Entre trabalhadores iniciantes e com menor nível de habilidade, o aumento chegou a aproximadamente 34%. Os resultados também indicaram melhorias na satisfação dos clientes e na retenção dos funcionários.]`
 
 ### Limitações apresentadas
 
-`[preencher]`
+`[O estudo foi realizado com profissionais de atendimento ao cliente, e não diretamente com desenvolvedores de software ou gestores de sistemas. Por isso, os resultados não podem ser generalizados automaticamente para todas as ocupações da área de TI.]`
 
 ### Contribuição para o nosso artigo
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+`[A pesquisa contribui para compreender os efeitos da IA generativa sobre a produtividade e o aprendizado profissional. Seus resultados ajudam a discutir como essas ferramentas podem apoiar trabalhadores iniciantes e modificar a distribuição de tarefas nas organizações.]`
 
 ### Comentário crítico
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
+`[O estudo utiliza dados reais de milhares de trabalhadores, o que constitui um ponto forte. Entretanto, como o contexto analisado é o atendimento ao cliente, suas conclusões devem ser complementadas por pesquisas específicas sobre profissionais de tecnologia da informação.]`
 
 ### Citação literal opcional
 
-> `[trecho exato]`
-
-Página: `[número]`
+Não incluída.
 
 ## Checklist
 
-* [ ] O artigo foi lido além do resumo.
-* [ ] O método e os resultados foram identificados.
-* [ ] As limitações foram registradas.
-* [ ] A conexão com o tema foi explicada.
-* [ ] Toda citação literal contém página.
+* [x] O artigo foi lido além do resumo.
+* [x] O método e os resultados foram identificados.
+* [x] As limitações foram registradas.
+* [x] A conexão com o tema foi explicada.
+* [x] Toda citação literal contém página.
 
