@@ -33,7 +33,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 * [x] Os parágrafos apresentam uma ideia principal.
 * [x] Foram corrigidos ortografia e concordância.
 * [x] Repetições e frases vagas foram eliminadas.
-* [ ] O texto diferencia descrição de análise crítica.
+* [x] O texto diferencia descrição de análise crítica.
 
 ## Formatação
 
@@ -46,7 +46,20 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 |Seção|Problema encontrado|Correção realizada|Responsável|
 |-|-|-|-|
-|`[preencher]`|`[preencher]`|`[preencher]`|`[nome]`|
+|`[Introdução]`|`[O tema precisava estar mais delimitado e o objetivo da pesquisa mais claro.]`|`[Foi especificado o foco nos impactos da Inteligência Artificial Generativa no mercado de trabalho da área de TI.]`|`[Isabela de Sena Alves]`|
+
+
+|`[Metodologia]`|`[Era necessário explicar como a revisão bibliográfica foi organizada.]`|`[Foi incluída a descrição da revisão bibliográfica, dos critérios gerais de seleção dos artigos e dos eixos temáticos.]`|`[Ryan Oliveira Trigo Santos]`|
+
+|`[Revisão da literatura]`|`[Os estudos precisavam ser organizados para facilitar a comparação entre os resultados.]`|`[A revisão foi dividida em três eixos: produtividade, competências profissionais e impactos no mercado de trabalho.]`|`[Renan Oliveira Trigo Santos]`|
+
+|`[Síntese crítica]`|`[Era necessário diferenciar o aumento da produtividade da substituição de empregos.]`|`[Foi acrescentada uma análise crítica sobre os benefícios da IAG, a necessidade de supervisão humana e as limitações das pesquisas.]`|`[Isabela de Sena Alves]`|
+
+
+|`[Referências]`|`[Os dados bibliográficos precisavam ser conferidos e padronizados.]`|`[Foi iniciada a conferência dos artigos, dos DOI e dos links; a padronização final ainda deve ser verificada.]`|`[IRyan Oliveira Trigo Santos]`|
+
+|`[Formataçãos]`|`[Era necessário conferir a adequação ao modelo exigido pela instituição.]`|`[Foi registrada a necessidade de revisar fonte, espaçamento, margens, paginação e referências antes da entrega.]`|`[Renan Oliveira Trigo Santos]`|
+
 
 
 
