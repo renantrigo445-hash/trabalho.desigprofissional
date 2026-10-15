@@ -23,26 +23,26 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ### Eixo 1
 
-* Ideia principal: `[preencher]`
-* Evidências que serão usadas: `[preencher]`
-* Comparação entre estudos: `[preencher]`
-* Ligação com o problema: `[preencher]`
+* Ideia principal: `[A inteligência artificial generativa pode acelerar atividades de programação, auxiliar na identificação de erros e reduzir o tempo dedicado a tarefas repetitivas.]`
+* Evidências que serão usadas: `[ Os três artigos selecionados, considerando suas análises sobre utilização da IA no desenvolvimento de software, produtividade e avaliação de resultados.]`
+* Comparação entre estudos: `[Os trabalhos convergem quanto ao potencial de apoio da IA, mas apresentam métodos e contextos diferentes. Por isso, os resultados precisam ser interpretados de acordo com as condições de cada pesquisa.]`
+* Ligação com o problema: `[ Esse eixo ajuda a compreender como a adoção da IAG modifica a rotina dos profissionais de TI e a distribuição das tarefas de desenvolvimento.]`
 
 ### Eixo 2
 
-* Ideia principal: `[preencher]`
-* Evidências que serão usadas: `[preencher]`
-* Comparação entre estudos: `[preencher]`
-* Ligação com o problema: `[preencher]`
+* Ideia principal: `[O uso da IAG modifica as atividades dos profissionais, tornando importantes a análise crítica, a validação de códigos, a segurança da informação e o aprendizado contínuo.]`
+* Evidências que serão usadas: `[As discussões dos artigos sobre o papel dos desenvolvedores, a utilização de ferramentas generativas e a necessidade de supervisão humana.]`
+* Comparação entre estudos: `[Enquanto a automação pode reduzir o esforço necessário para determinadas tarefas, o uso adequado dessas ferramentas exige conhecimento para identificar erros e avaliar a qualidade das respostas geradas.]`
+* Ligação com o problema: `[Esse eixo permite analisar quais competências podem se tornar mais relevantes e como os profissionais precisam se preparar para as mudanças no mercado de trabalho.]`
 
 ## Síntese crítica provisória
 
-`[Escreva um parágrafo indicando tendências, divergências e lacunas.]`
+`[Os estudos selecionados indicam que a inteligência artificial generativa apresenta potencial para automatizar tarefas de programação, aumentar a eficiência e transformar as atividades dos profissionais de TI. Há convergência quanto à importância do conhecimento técnico e da avaliação humana dos resultados produzidos pelas ferramentas. Entretanto, as diferenças entre os métodos e os contextos analisados dificultam comparações diretas e generalizações. Além disso, ganhos de produtividade não comprovam, isoladamente, a substituição de empregos. Permanecem lacunas relacionadas aos efeitos de longo prazo sobre a contratação de profissionais iniciantes, a qualidade do software e as competências exigidas pelo mercado. Dessa forma, são necessárias pesquisas empíricas que acompanhem essas mudanças e contribuam para orientar a formação acadêmica e a capacitação profissional.]`
 
 ## Checklist
 
-* [ ] Os artigos foram agrupados por ideias.
-* [ ] Há comparações entre estudos.
-* [ ] As divergências foram registradas.
-* [ ] As lacunas são específicas e sustentadas pelas leituras.
+* [x] Os artigos foram agrupados por ideias.
+* [x] Há comparações entre estudos.
+* [x] As divergências foram registradas.
+* [x] As lacunas são específicas e sustentadas pelas leituras.
 
