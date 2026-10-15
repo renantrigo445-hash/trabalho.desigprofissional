@@ -14,8 +14,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`[Automação e produtividade
-Transformação das funções e competências]`|`[Jorge, Oliveira e Silva (2025); Ferreira e Sousa (2026); Yamada e Mendes (2026).]`|`[Os estudos abordam o potencial da IA para auxiliar a programação, automatizar tarefas e aumentar a eficiência.]`|`[Os trabalhos apresentam abordagens e evidências diferentes, incluindo discussões sobre aplicações práticas e avaliação experimental.]`|`[Resultados dependem das tarefas analisadas, das amostras e das ferramentas utilizadas.]`|`[Faltam avaliações de longo prazo sobre a produtividade e a qualidade do software em ambientes profissionais reais.]`|
+|`[Automação e produtividade]`|`[Jorge, Oliveira e Silva (2025); Ferreira e Sousa (2026); Yamada e Mendes (2026).]`|`[Os estudos abordam o potencial da IA para auxiliar a programação, automatizar tarefas e aumentar a eficiência.]`|`[Os trabalhos apresentam abordagens e evidências diferentes, incluindo discussões sobre aplicações práticas e avaliação experimental.]`|`[Resultados dependem das tarefas analisadas, das amostras e das ferramentas utilizadas.]`|`[Faltam avaliações de longo prazo sobre a produtividade e a qualidade do software em ambientes profissionais reais.]`|
 
 ## Roteiro da revisão da literatura
 
